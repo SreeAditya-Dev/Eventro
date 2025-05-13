@@ -17,6 +17,12 @@
 Check out the live deployed version of Eventro:
 
 👉 [https://eventro0.netlify.app/](https://eventro0.netlify.app/)
+## 🌍 Demo
+
+Prototype video
+
+👉 [https://ssneduin-my.sharepoint.com/:v:/g/personal/sreeaditya24110041_snuchennai_edu_in/EQmvCD0ErsBDhfZZqVdGZBoByaKXz8rt6V3_15eQ7inbjw?e=SjvE4c](https://ssneduin-my.sharepoint.com/:v:/g/personal/sreeaditya24110041_snuchennai_edu_in/EQmvCD0ErsBDhfZZqVdGZBoByaKXz8rt6V3_15eQ7inbjw?e=SjvE4c)
+
 
 ---
 
